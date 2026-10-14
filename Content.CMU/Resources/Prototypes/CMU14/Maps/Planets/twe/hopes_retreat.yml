@@ -87,6 +87,7 @@
   allegiance: IndependentSystems # ICSC
   mapPath: /Maps/CMU14/HopesRetreatMultiZ/HopesRetreatMultiZ0.yml
   mapsBelow:
+  - /Maps/CMU14/HopesRetreatMultiZ/HopesRetreatMultiZ-2.yml
   - /Maps/CMU14/HopesRetreatMultiZ/HopesRetreatMultiZ-1.yml
   mapsAbove:
   - /Maps/CMU14/HopesRetreatMultiZ/HopesRetreatMultiZ1.yml
